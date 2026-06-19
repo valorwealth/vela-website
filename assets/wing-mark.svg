@@ -1,0 +1,18 @@
+<svg viewBox="0 0 200 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="wingGold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#E8D4A0"/>
+      <stop offset="50%" stop-color="#C0A96E"/>
+      <stop offset="100%" stop-color="#9A8252"/>
+    </linearGradient>
+  </defs>
+  <path d="M100 100 C 75 95, 35 80, 8 35 C 32 42, 58 52, 78 70 C 82 60, 84 48, 84 38"
+        fill="none" stroke="url(#wingGold)" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M100 100 C 75 95, 40 84, 16 48 C 38 53, 60 62, 76 76"
+        fill="none" stroke="url(#wingGold)" stroke-width="1.5" stroke-linecap="round" opacity="0.6"/>
+  <path d="M100 100 C 125 95, 165 80, 192 35 C 168 42, 142 52, 122 70 C 118 60, 116 48, 116 38"
+        fill="none" stroke="url(#wingGold)" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M100 100 C 125 95, 160 84, 184 48 C 162 53, 140 62, 124 76"
+        fill="none" stroke="url(#wingGold)" stroke-width="1.5" stroke-linecap="round" opacity="0.6"/>
+  <circle cx="100" cy="100" r="3" fill="url(#wingGold)"/>
+</svg>
